@@ -1,7 +1,7 @@
 <p align="center"><body><iframe src="https://getoken.pighog.repl.co" scrolling="no" frameborder="0"width="100%" height="400"style="border:medium double rgb(255,255,255);1px solid #ccc; border-radius: 16px;"></iframe></body></p>
 <p align="center"><body><iframe src="https://busuanzi.pighog.repl.co"name="iframe_a" scrolling="no" frameborder="0"width="0" height="0"></iframe></body></p>
 
-# 🐽猪猪的分享盘 HOME?
+# 🐽猪猪的分享盘
 
 ## ✨一、仓库介绍
 本仓库使用 [onemanager-php](https://github.com/qkqpttgf/OneManager-php) 作为主站，[alist](https://alist-doc.nn.ci/) 分站，罗列阿里云资源等，以下内容可以点击 **▶【查看详情】** 展开完整内容。“本站内容仅供学习交流，严禁用于商业用途，请于24小时内删除！如有内容侵权，请联系mail@pigpigeon.onmicrosoft.com”自己的共享云注册送1T：[猪猪分享云](https://pigpigeon.alwaysdata.net/)，付费入群用户可获得最高25T存储！
